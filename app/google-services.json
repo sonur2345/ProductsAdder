@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1097230192317",
+    "firebase_url": "https://apnidukan-8fbe1-default-rtdb.firebaseio.com",
+    "project_id": "apnidukan-8fbe1",
+    "storage_bucket": "apnidukan-8fbe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097230192317:android:04166f83ad2858599a31d4",
+        "android_client_info": {
+          "package_name": "com.example.apnidukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097230192317-5suvbjbusmjvjhle0jmnfe9uc3phmbn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-a3PAZRABH2hnbhnPTaIsd-ILRF7-BQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097230192317-5suvbjbusmjvjhle0jmnfe9uc3phmbn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097230192317:android:1008bda6e9b6104a9a31d4",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097230192317-5suvbjbusmjvjhle0jmnfe9uc3phmbn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-a3PAZRABH2hnbhnPTaIsd-ILRF7-BQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097230192317-5suvbjbusmjvjhle0jmnfe9uc3phmbn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

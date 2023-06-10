@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProductsAdder</string>
+    <string name="name">Name</string>
+    <string name="product_general_information">Product general information:</string>
+    <string name="category">Category</string>
+    <string name="product_description_optional">Product description (Optional)</string>
+    <string name="price">Price</string>
+    <string name="offer_percentage_optional">Offer Percentage (Optional)</string>
+    <string name="product_details">Product details:</string>
+    <string name="sizes_optional_use_between_each_new_size">Sizes (Optional) | use , between each new size</string>
+    <string name="colors">Colors</string>
+    <string name="images">Images</string>
+</resources>
